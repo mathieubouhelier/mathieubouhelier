@@ -1,12 +1,10 @@
 # Hi there, I'm Mathieu 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathieu-bouhelier/)](https://www.linkedin.com/in/mathieu-bouhelier/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathieubouhelier@gmail.com)](mailto:mathieubouhelier@gmail.com)
 
 ##  I’m currently studying at **Trybe** to become a **Full Stack Web Developer** by March 2021! 🚀
 
-## :dart: Find me there...
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathieu-bouhelier/)](https://www.linkedin.com/in/mathieu-bouhelier/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathieubouhelier@gmail.com)](mailto:mathieubouhelier@gmail.com)
-  
 ## Some of my playgrounds
 
 <p> JavaScript | ReactJS | Redux | react-Hooks| Jest | HTML | CSS | Bootstrap| SQL | MongoDB | NodeJS | ExpressJS | Scrum</p>
