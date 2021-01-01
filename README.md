@@ -22,4 +22,4 @@
 
 **StarWars Redux**, a project from Trybe to use an API to list some StarWars planets and filters option is added
 
-[![StarWars Redux card](https://github-readme-stats.vercel.app/api/pin/?username=mathieubouhelier&repo=&theme=vue-dark)](https://github.com/mathieubouhelier/)
+[![StarWars Redux card](https://github-readme-stats.vercel.app/api/pin/?username=mathieubouhelier&repo=&theme=vue-dark)](https://github.com/mathieubouhelier/projects_trybe/sd-04-project-react-redux-starwars-database-filters)
