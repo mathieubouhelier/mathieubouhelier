@@ -18,3 +18,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathieubouhelier&theme=vue-dark" style="max-width:100%;" />
 </a>
 
+## :construction_worker: Some of my projects...
+
+**StarWars Redux**, a project from Trybe to use an API to list some StarWars planets and filters option is added
+
+[![StarWars Redux card](https://github-readme-stats.vercel.app/api/pin/?username=mathieubouhelier&repo=&theme=vue-dark)](https://github.com/mathieubouhelier/)
