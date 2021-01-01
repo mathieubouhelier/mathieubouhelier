@@ -22,10 +22,8 @@
 
 **StarWars DataBase Redux**, is a project using an API to list planets from a StarWars database and filter them following their characteristics <br />
 **Tecnology used**: React, Redux, Bootstrap <br />
-<img src = "starwarsRedux.png">
-![starwars project pic](starwarsRedux.png)  
-![image](starwarsRedux.png)
-![GitHub Logo](/images/starwarsRedux.png)<br />
+<img src = "https://github.com/mathieubouhelier/mathieubouhelier.github.io/blob/master/starwarsRedux.png" alt="starwars project" height="200">
+<br />
 
 <a href="https://github.com/mathieubouhelier/projects_trybe/tree/main/sd-04-project-react-redux-starwars-database-filters" alt="StarWars-db-project"> Link <a/> to Repository 
 
