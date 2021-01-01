@@ -20,7 +20,11 @@
 
 ## :construction_worker: Some of my projects...
 
-**StarWars Redux**, is a project from Trybe using an API to list plantes from StarWars and filters them by their caracteristics
+**StarWars DataBase Redux**, is a project using an API to list planets from a StarWars database and filter them following their characteristics <br />
+**Tecnology used**: React, Redux, Bootstrap
+![Test starwarsredux](https://github.com/mathieubouhelier)
+
+Tecnology used: React, Redux, Bootstrap
 
 <a href="https://github.com/mathieubouhelier/projects_trybe/tree/main/sd-04-project-react-redux-starwars-database-filters" alt="StarWars-db-project"> Link <a/> to Repository 
 <br />
