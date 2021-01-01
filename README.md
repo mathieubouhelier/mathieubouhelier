@@ -21,5 +21,8 @@
 ## :construction_worker: Some of my projects...
 
 **StarWars Redux**, a project from Trybe to use an API to list some StarWars planets and filters option is added
+Link to the repository
+https://github.com/mathieubouhelier/projects_trybe/tree/main/sd-04-project-react-redux-starwars-database-filters
+Link to the App
 
-[![StarWars Redux card](https://github-readme-stats.vercel.app/api/pin/?username=mathieubouhelier&repo=&theme=vue-dark)](https://github.com/mathieubouhelier/projects_trybe/sd-04-project-react-redux-starwars-database-filters)
+
