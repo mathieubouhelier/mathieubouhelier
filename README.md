@@ -25,7 +25,7 @@
 <img src = "https://github.com/mathieubouhelier/mathieubouhelier.github.io/blob/master/starwarsRedux.png" alt="starwars project" height="200">
 <br />
 
-<a href="https://github.com/mathieubouhelier/projects_trybe/tree/main/sd-04-project-react-redux-starwars-database-filters" alt="StarWars-db-project"> Link <a/> to Repository 
+<a href="https://github.com/mathieubouhelier/projects_trybe/tree/main/projects%20Front%20End/sd-04-project-react-redux-starwars-database-filters" alt="StarWars-db-project"> Link <a/> to Repository 
 
 <a href="https://mathieubouhelier.github.io/starwars-redux">Link <a/> to the App
 
