@@ -50,9 +50,9 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 **Shopping Cart**, in this project, the user can shearch, navigate and choose products pushed from the Mercadolivre API.<br />
 **Tecnology used**: Javascript, CSS, HTML, API <br />
-<img src = "https://github.com/mathieubouhelier/projects_trybe/tree/main/projects%20Front%20End/sd-04-block10-project-shopping-cart" alt="shoppingCart project" height="200">
+<img src = "https://github.com/mathieubouhelier/mathieubouhelier.github.io/blob/master/shoppingCart.png" alt="shoppingCart project" height="200">
 <br />
-<a href="https://github.com/matttps://github.com/mathieubouhelier/mathieubouhelier.github.io/blob/master/shoppingCart.pnghieubouhelier/projects_trybe/tree/main/projects%20Front%20End/sd-04-block10-project-shopping-cart"> Link <a/> to Repository 
+<a href="https://github.com/mathieubouhelier/projects_trybe/tree/main/projects%20Front%20End/sd-04-block10-project-shopping-cart"> Link <a/> to Repository 
 
 <a href="https://mathieubouhelier.github.io/project-shopping-cart/">Link <a/> to the App
 
