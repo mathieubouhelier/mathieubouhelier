@@ -22,6 +22,10 @@
 
 ### All my projects I developed while studying at Trybe - 2020/2021
 
+All projects developed by Mathieu Bouhelier while studying at TrybeThe web development training program from Trybe has a workload of 1500 hours that covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
+
+The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Express.js, MongoDB, SQL, Git, among others languages and frameworks.
+
 <a href="https://github.com/mathieubouhelier/projects_trybe" alt="All Trybe projects"> Link <a/> to Repository 
 
 ### StarWars DataBase Redux - 07/2020
