@@ -38,6 +38,15 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 <a href="https://github.com/mathieubouhelier/projects_trybe/tree/main/projects%20Front%20End/sd-04-project-react-redux-starwars-database-filters" alt="StarWars-db-project"> Link <a/> to Repository 
 
 <a href="https://mathieubouhelier.github.io/starwars-redux">Link <a/> to the App
+  
+ 3. ### Recipe - 08/2020
+
+**Recipe**, is a group project of a recipes App using the themealdb API. The user can navigate to food or drink recipes, shearch, save his favorites recipes. The app is responsive <br />
+**Tecnology used**: React, Redux, Bootstrap, API <br />
+
+<a href="https://github.com/mathieubouhelier/projects_trybe/tree/main/projects%20Front%20End/sd-04-recipes-app-8" alt="Recipe-project"> Link <a/> to Repository 
+
+
 
 
 
