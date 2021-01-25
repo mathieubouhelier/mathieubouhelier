@@ -7,7 +7,7 @@
 
 ## Some of my playgrounds
 
-<p> JavaScript | ReactJS | Redux | react-Hooks| Jest | HTML | CSS | Bootstrap| SQL | MongoDB | NodeJS | ExpressJS | Scrum</p>
+<p> JavaScript | ReactJS | Redux | react-Hooks| Jest | HTML | CSS | Bootstrap| SQL | MongoDB | NodeJS | ExpressJS | Python | Scrum</p>
 
 ## :chart_with_upwards_trend: GitHub Stats
 
