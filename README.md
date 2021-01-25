@@ -20,10 +20,11 @@
 
 ## :construction_worker: Some of my projects...
 
-## All my projects while studying at Trybe
+### All my projects I developed while studying at Trybe - 2020/2021
 
 <a href="https://github.com/mathieubouhelier/projects_trybe" alt="All Trybe projects"> Link <a/> to Repository 
 
+### StarWars DataBase Redux - 07/2020
 
 **StarWars DataBase Redux**, is a project using an API to list planets from a StarWars database and filter them following their characteristics <br />
 **Tecnology used**: React, Redux, Bootstrap <br />
