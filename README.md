@@ -20,7 +20,7 @@
 
 ## :construction_worker: Some of my projects...
 
-### All my projects I developed while studying at Trybe - 2020/2021
+1. ### All my projects I developed while studying at Trybe - 2020/2021
 
 All projects developed by Mathieu Bouhelier while studying at TrybeThe web development training program from Trybe has a workload of 1500 hours that covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 
@@ -28,7 +28,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 <a href="https://github.com/mathieubouhelier/projects_trybe" alt="All Trybe projects"> Link <a/> to Repository 
 
-### StarWars DataBase Redux - 07/2020
+2. ### StarWars DataBase Redux - 07/2020
 
 **StarWars DataBase Redux**, is a project using an API to list planets from a StarWars database and filter them following their characteristics <br />
 **Tecnology used**: React, Redux, Bootstrap <br />
