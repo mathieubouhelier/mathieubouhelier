@@ -60,6 +60,14 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 <a href="https://mathieubouhelier.github.io/project-shopping-cart/">Link <a/> to the App
 
+5. ### Cookmaster V2 - 10/2020
+
+**Cookmaster V2**, This is API project based on REST and MSC pattern. Through this application, it will be possible to perform the basic operations that can be done in a given data base (Mongodb in that case): Creation, Reading, Updating and Deleting. Authentication is done using JWT<br />
+**Tecnology used**: JWT, Nodejs, Express, Mongodb, REST, API <br />
+
+<br />
+<a href="https://github.com/tryber/sd-04-cookmaster-v2/tree/mathieubouhelier-sd-04-cookmaster-v2"> Link <a/> to Repository 
+
 
 
 
