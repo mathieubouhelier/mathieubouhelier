@@ -49,7 +49,8 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 <a href="https://github.com/mathieubouhelier/projects_trybe/tree/main/projects%20Front%20End/sd-04-recipes-app-8" alt="Recipe-project"> Link <a/> to Repository 
 
 <a href="https://mathieubouhelier.github.io/recipe/">Link <a/> to the App
- 4. ### Shopping Cart - 05/2020
+  
+4. ### Shopping Cart - 05/2020
 
 **Shopping Cart**, in this project, the user can shearch, navigate and choose products pushed from the Mercadolivre API.<br />
 **Tecnology used**: Javascript, CSS, HTML, API <br />
