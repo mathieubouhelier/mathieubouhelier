@@ -46,7 +46,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 <img src = "https://github.com/mathieubouhelier/mathieubouhelier.github.io/blob/master/recipe-login.png" alt="login recipe project" height="200">
 <img src = "https://github.com/mathieubouhelier/mathieubouhelier.github.io/blob/master/recipe-food.png" alt="food recipe project" height="200">
 <br />
-<a href="https://github.com/mathieubouhelier/projects_trybe/tree/main/projects%20Front%20End/sd-04-recipes-app-8" alt="Recipe-project"> Link <a/> to Repository 
+<a href="https://github.com/tryber/sd-04-recipes-app-8/" alt="Recipe-project"> Link <a/> to Repository 
 
 <a href="https://mathieubouhelier.github.io/recipe/">Link <a/> to the App
   
