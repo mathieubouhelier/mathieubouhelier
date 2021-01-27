@@ -42,7 +42,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
  3. ### Recipe - 08/2020
 
 **Recipe**, is a group project to build a recipe App using the themealdb API. <br /> The user can navigate to food or drink recipes, shearch, save his favorites recipes. The app aim to be responsive <br />
-**Tecnology used**: React, Redux, Bootstrap, API <br />
+**Tecnology used**: React, Redux, Bootstrap, API, Agile methodology <br />
 <img src = "https://github.com/mathieubouhelier/mathieubouhelier.github.io/blob/master/recipe-login.png" alt="login recipe project" height="200">
 <img src = "https://github.com/mathieubouhelier/mathieubouhelier.github.io/blob/master/recipe-food.png" alt="food recipe project" height="200">
 <br />
