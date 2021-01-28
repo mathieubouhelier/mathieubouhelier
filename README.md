@@ -68,7 +68,17 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 <br />
 <a href="https://github.com/tryber/sd-04-cookmaster-v2/tree/mathieubouhelier-sd-04-cookmaster-v2"> Link <a/> to Repository 
 
+6. ### Trybeer V1 - 11/2020 (Full Stack - group project)
 
+**Trybeer V1**, This is a full stack project, API, data base and frontEnd. 
+To facilitate understanding, we can divide the application into three parts: <br />
+* Customer front-end, where our customers go to buy beer;
+* Admin front-end, where the establishment will control the orders placed;
+* API, which will be shared between client and admin. <br />
+**Tecnology used**: JWT, Nodejs, Express, MySQL, REST, API, React, Redux, Javascript, Axios, Scrum, Hooks <br />
+
+<br />
+<a href="https://github.com/juniomelos/Project-Trybeer"> Link <a/> to Repository 
 
 
 
