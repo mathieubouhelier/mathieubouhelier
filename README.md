@@ -82,7 +82,7 @@ To facilitate understanding, we can divide the application into three parts: <br
 
 7. ### Two micro service, 2 factors authentification and a basic CRUD - 01/2021 (Technical test)
 
-This is a project to respond to a **technical test** during a recruiting process to develop two micro service, one is about 2 factors authentification and the second one is a basic CRUD
+This is a project to respond to a **technical test** during a recruiting process to develop two micro service, one is about 2 factors authentification and the second one is a basic CRUD<br />
 **Tecnology used**: JWT, Nodejs, Express, MySQL, REST, API, Swagger, Tests, 2 environements (Local Development & Production) <br />
 
 <br />
