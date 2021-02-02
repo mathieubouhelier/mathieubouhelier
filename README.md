@@ -80,6 +80,17 @@ To facilitate understanding, we can divide the application into three parts: <br
 <br />
 <a href="https://github.com/juniomelos/Project-Trybeer"> Link <a/> to Repository 
 
+7. ### Two micro service, 2 factors authentification and a basic CRUD - 01/2021 (Technical test)
+
+This is a project I developed to respond to a **technical test** during a recruiting process to develop two micro service, one is about authentification and the second one is a basic CRUD
+**Tecnology used**: JWT, Nodejs, Express, MySQL, REST, API, Swagger, Tests, 2 environements (Local Development & Production) <br />
+
+<br />
+<a href="https://app.swaggerhub.com/apis/mathieu_bouhelier/crud/0.1"> Link <a/> to Crud Swagger 
+ <br />
+<a href="https://app.swaggerhub.com/apis/mathieu_bouhelier/authentification/0.1"> Link <a/> to authentification Swagger
+<br />
+<a href="https://github.com/mathieubouhelier/technical-test-2-MicroService-Crud-Auth"> Link <a/> to Repository 
 
 
 
