@@ -26,7 +26,7 @@ All projects developed by Mathieu Bouhelier while studying at TrybeThe web devel
 
 The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Express.js, MongoDB, SQL, Git, among others languages and frameworks.
 
-<a href="https://github.com/mathieubouhelier/projects_trybe" alt="All Trybe projects"> Link <a/> to Repository 
+<a href="https://github.com/mathieubouhelier/projects_trybe" alt="All Trybe projects"> Link </a> to Repository 
 
 2. ### StarWars DataBase Redux - 07/2020
 
@@ -35,9 +35,9 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 <img src = "https://github.com/mathieubouhelier/mathieubouhelier.github.io/blob/master/starwarsRedux.png" alt="starwars project" height="200">
 <br />
 
-<a href="https://github.com/mathieubouhelier/projects_trybe/tree/main/projects%20Front%20End/sd-04-project-react-redux-starwars-database-filters" alt="StarWars-db-project"> Link <a/> to Repository 
+<a href="https://github.com/mathieubouhelier/projects_trybe/tree/main/projects%20Front%20End/sd-04-project-react-redux-starwars-database-filters" alt="StarWars-db-project"> Link </a> to Repository 
 
-<a href="https://mathieubouhelier.github.io/starwars-redux">Link <a/> to the App
+<a href="https://mathieubouhelier.github.io/starwars-redux">Link </a> to the App
   
  3. ### Recipe - 08/2020
 
@@ -46,9 +46,9 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 <img src = "https://github.com/mathieubouhelier/mathieubouhelier.github.io/blob/master/recipe-login.png" alt="login recipe project" height="200">
 <img src = "https://github.com/mathieubouhelier/mathieubouhelier.github.io/blob/master/recipe-food.png" alt="food recipe project" height="200">
 <br />
-<a href="https://github.com/tryber/sd-04-recipes-app-8/" alt="Recipe-project"> Link <a/> to Repository 
+<a href="https://github.com/tryber/sd-04-recipes-app-8/" alt="Recipe-project"> Link </a> to Repository 
 
-<a href="https://mathieubouhelier.github.io/recipe/">Link <a/> to the App
+<a href="https://mathieubouhelier.github.io/recipe/">Link </a> to the App
   
 4. ### Shopping Cart - 05/2020
 
@@ -58,7 +58,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 <br />
 <a href="https://github.com/mathieubouhelier/projects_trybe/tree/main/projects%20Front%20End/sd-04-block10-project-shopping-cart"> Link <a/> to Repository 
 
-<a href="https://mathieubouhelier.github.io/project-shopping-cart/">Link <a/> to the App
+<a href="https://mathieubouhelier.github.io/project-shopping-cart/">Link </a> to the App
 
 5. ### Cookmaster V2 - 10/2020
 
