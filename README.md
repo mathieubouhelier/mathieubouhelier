@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathieu-bouhelier/)](https://www.linkedin.com/in/mathieu-bouhelier/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathieubouhelier@gmail.com)](mailto:mathieubouhelier@gmail.com)
 
-##  I’m currently Software Engineer at DTI digital! 🚀
+##  I’m currently Software Engineer at the SilverLogic! 🚀
 
 ## Some of my playgrounds
 
